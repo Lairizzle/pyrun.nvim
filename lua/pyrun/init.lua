@@ -22,6 +22,8 @@ function M.run()
 			col = col,
 			style = "minimal",
 			border = "rounded",
+			title = " Pyrun Output ",
+			title_pos = "center",
 		})
 
 		-- Run the script in a terminal (supports input())
